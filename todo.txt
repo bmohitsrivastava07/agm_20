@@ -1,0 +1,8 @@
+Testing
+https://www.javaguides.net/2022/03/spring-boot-unit-testing-service-layer.html
+
+Exception
+https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm#:~:text=Define%20a%20class%20that%20extends%20the%20RuntimeException%20class.&text=You%20can%20define%20the%20%40ExceptionHandler,the%20Controller%20Advice%20class%20file.&text=Now%2C%20use%20the%20code%20given,the%20exception%20from%20the%20API.
+
+
+https://stackoverflow.com/questions/52437023/best-way-to-add-the-custom-exception-for-the-spring-boot-code
